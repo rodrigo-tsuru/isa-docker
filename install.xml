@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agent-input clean='false' temporary='false'>
 <server>
-<repository location='.'/>
 <repository location='https://www.ibm.com/software/repositorymanager/com.ibm.isa.offerings.v5/'/>
 </server>
 <install>
