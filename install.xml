@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent-input clean='false' temporary='false'>
+<server>
+<repository location='.'/>
+<repository location='https://www.ibm.com/software/repositorymanager/com.ibm.isa.offerings.v5/'/>
+</server>
+<install>
+<offering id="com.ibm.isa.teamserver" />
+<offering id="com.ibm.isa.tools.gcmv" />
+<offering id="com.ibm.isa.tools.gcmv.jws" />
+<offering id="com.ibm.isa.tools.healthcenter" />
+<offering id="com.ibm.isa.tools.heapanalyzer" />
+<offering id="com.ibm.isa.tools.memoryanalyzer" />
+<offering id="com.ibm.isa.tools.memoryanalyzer.jws" />
+<offering id="com.ibm.isa.tools.memoryanalyzer.web" />
+<offering id="com.ibm.isa.tools.pmat" />
+<offering id="com.ibm.isa.tools.pmat.jws" />
+<offering id="com.ibm.isa.tools.portalloganalyzer" />
+<offering id="com.ibm.isa.tools.portchecker" />
+<offering id="com.ibm.isa.tools.tmda" />
+<offering id="com.ibm.isa.tools.tmda.jws" />
+<offering id="com.ibm.isa.tools.wascv" />
+<offering id="com.ibm.isa.tools.classloader.jws" />
+<offering id="com.ibm.isa.tools.wspa.jws" />
+<offering id="com.ibm.isa.tools.ptat" />
+<offering id="com.ibm.isa.tools.osar" />
+</install>
+</agent-input>
